@@ -3118,4 +3118,5 @@
   <block id="f14894e4c400a400c02367258a93029a" category="sidebar">Trident for Docker が必要です</block>
   <block id="e08bfc79c5202517b3814efd6e82fb2c" category="sidebar">Trident をアップグレードまたはアンインストールする</block>
   <block id="d293f031e5664526b25f3a65012401b7" category="cell">「 IPv6 」</block>
+  <block id="997cff957213b9212a22d7cac2b4275d" category="list-text">生成された証明書を使用して認証をテストONTAP 管理 LIF &gt; と &lt;vserver name&gt; は、管理 LIF の IP アドレスおよび SVM 名に置き換えてください。LIF のサービスポリシーが「 default-data-management 」に設定されていることを確認する必要があります。</block>
 </blocks>
