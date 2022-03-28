@@ -6,6 +6,7 @@ summary: Amazon Elastic Kubernetes Service （ EKS ）で実行されている A
 ---
 = Amazon FSX for NetApp ONTAP で Astra Trident を使用
 :hardbreaks:
+:allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
 
@@ -94,7 +95,7 @@ aws fsx describe-storage-virtual-machines --region <file system region>
 ----
 
 
-. 認証用の証明書を作成してインストールします。「 ONTAP-SAN' バックエンド」を使用している場合は、を参照してください link:ontap-san.html["こちらをご覧ください"^]。「 ONTAP-NAS' バックエンド」を使用している場合は、を参照してください 。
+. 認証用の証明書を作成してインストールします。「 ONTAP-SAN' バックエンド」を使用している場合は、を参照してください link:ontap-san.html["こちらをご覧ください"^]。「 ONTAP-NAS' バックエンド」を使用している場合は、を参照してください link:ontap-nas.html["こちらをご覧ください"^]。
 +
 
 NOTE: ファイルシステムにアクセスできる任意の場所から SSH を使用して、ファイルシステムにログイン（証明書をインストールする場合など）できます。「 fsxadmin 」ユーザ、ファイルシステムの作成時に設定したパスワード、「 aws FSX describe -file-systems 」の管理 DNS 名を使用します。
