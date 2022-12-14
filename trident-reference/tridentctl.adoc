@@ -51,7 +51,7 @@ Usage:
 
 
 
-== 作成
+== `create`
 
 create コマンドを実行して 'Astra Trident にリソースを追加できます
 
@@ -64,7 +64,7 @@ Usage:
 
 
 
-== 削除
+== `delete`
 
 「削除」コマンドを実行すると、 Astra Trident から 1 つ以上のリソースを削除できます。
 
@@ -84,7 +84,7 @@ Usage:
 
 
 
-== 取得
+== `get`
 
 get コマンドを実行すると 'Astra Trident から 1 つ以上のリソースを取得できます
 
@@ -103,7 +103,7 @@ Usage:
 
 
 
-== イメージ
+== `images`
 
 「 images 」フラグを実行すると、 Astra Trident が必要とするコンテナイメージのテーブルを印刷できます。
 
@@ -116,7 +116,7 @@ flags:*`-h, --help`: イメージのヘルプ。*`-v ,--k8s-version string`: Kub
 
 
 
-== ボリュームをインポートします
+== `import volume`
 
 import volume コマンドを実行して、既存のボリュームを Astra Trident にインポートできます。
 
@@ -136,7 +136,7 @@ Usage:
 
 
 
-== をインストールします
+== `install`
 
 "install" フラグを実行して、 Astra Trident をインストールできます。
 
@@ -168,7 +168,7 @@ Usage:
 
 
 
-== ログ
+== `logs`
 
 "logs" フラグを実行して、 Astra Trident からログを印刷することができます。
 
@@ -189,7 +189,7 @@ Usage:
 
 
 
-== 送信
+== `send`
 
 'end' コマンドを実行して 'Astra Trident からリソースを送信できます
 
@@ -202,7 +202,7 @@ Usage:
 
 
 
-== をアンインストールします
+== uninstall
 
 uninstall フラグを実行して 'Astra Trident をアンインストールできます
 
@@ -215,7 +215,7 @@ flags:*`-h, --help`: アンインストールのヘルプ。*`--silent`: アン�
 
 
 
-== 更新
+== `update`
 
 「 update 」コマンドを実行して、 Astra Trident のリソースを変更できます。
 
@@ -228,7 +228,7 @@ Usage:
 
 
 
-== アップグレード
+== `upgrade`
 
 'upgrade' コマンドを実行して 'Astra Trident のリソースをアップグレードできます
 
@@ -241,7 +241,7 @@ tridentctl upgrade [option]
 
 
 
-== バージョン
+== 「バージョン」
 
 「 rsion 」フラグを実行して、「 tridentctl 」のバージョンと Trident サービスを実行して印刷できます。
 

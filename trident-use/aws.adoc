@@ -16,6 +16,7 @@ summary: Cloud Volumes Service for AWS を Astra Trident のバックエンド�
 
 NOTE: Cloud Volumes Service for AWS では、 100GB 未満のボリュームはサポートされません。Trident は、小さいボリュームが要求された場合は、 100GB のボリュームを自動的に作成します。
 
+.必要なもの
 を設定して使用します https://cloud.netapp.com/cloud-volumes-service-for-aws?utm_source=NetAppTrident_ReadTheDocs&utm_campaign=Trident["Cloud Volumes Service for AWS"^] バックエンドには次のものが必要です。
 
 * ネットアップ CVS で設定された AWS アカウント
