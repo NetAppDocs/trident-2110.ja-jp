@@ -256,30 +256,8 @@
   <block id="1b600643682d5a3280681ef82d7e6ae4" category="paragraph">Astra Trident の完全な削除を実行するには、 Astra Trident によって作成された CRD のフィナライザを削除し、 CRD を削除する必要があります。</block>
   <block id="34c4dac14496e9c45d92f345d9392fc8" category="summary">最新バージョンを実行していない場合は、以前のリリースの Astra Trident のドキュメントを参照できます。</block>
   <block id="ba09ee47d11962c1ccd13d7e1f10e6c5" category="doc">以前のバージョンのドキュメント</block>
-  <block id="ebb6d1f6681020925f184345a6a955aa" category="paragraph">Astra Trident 21.10 を実行していない場合は、以前のリリースのドキュメントを参照できます。</block>
-  <block id="9f687b4e8cbf2fbb623b26b30fd92717" category="admonition">21.07 より前のリリースでは、レガシードキュメントサイトにリダイレクトされます。</block>
   <block id="a93e9e44b7a375a4236260f5ff2b251e" category="inline-link">Astra Trident 21.07</block>
   <block id="3830d427e146a8a64454dc373d9b1502" category="list-text"><block ref="3830d427e146a8a64454dc373d9b1502" category="inline-link-rx"></block></block>
-  <block id="0c141ec81d4107f4c63fb0deb2531c0d" category="inline-link">Astra Trident 21.04</block>
-  <block id="193bfae1ebda99fb7289c66fa69395a0" category="list-text"><block ref="193bfae1ebda99fb7289c66fa69395a0" category="inline-link-rx"></block></block>
-  <block id="cba2c660d905f83e39a0d1771286c9e7" category="inline-link">Astra Trident 21.01</block>
-  <block id="97f32ab1a5165dc49105dca53b9f4de7" category="list-text"><block ref="97f32ab1a5165dc49105dca53b9f4de7" category="inline-link-rx"></block></block>
-  <block id="727d2d1e15a5c7260e90c50b1c250a4c" category="inline-link">Astra Trident 20.10</block>
-  <block id="8a0315074645cbbab67a7445dcdf42f2" category="list-text"><block ref="8a0315074645cbbab67a7445dcdf42f2" category="inline-link-rx"></block></block>
-  <block id="bad2b8fa41c05085668e48d7c14968dc" category="inline-link">Astra Trident 20.07</block>
-  <block id="449d7e957347de63ee3d9841c40b4e7f" category="list-text"><block ref="449d7e957347de63ee3d9841c40b4e7f" category="inline-link-rx"></block></block>
-  <block id="7c0a09ca9ea4472728e4661755a43c6b" category="inline-link">Astra Trident 20.04</block>
-  <block id="8a72b28486832ed8c725617460afbdcb" category="list-text"><block ref="8a72b28486832ed8c725617460afbdcb" category="inline-link-rx"></block></block>
-  <block id="1dc5429c6c86712d7628beb5652a0e2e" category="inline-link">Astra Trident 20.01</block>
-  <block id="23204facdc38bad335a6afce81db0827" category="list-text"><block ref="23204facdc38bad335a6afce81db0827" category="inline-link-rx"></block></block>
-  <block id="5b2d210bf907d26b59abbaa0e22fbbe6" category="inline-link">Astra Trident 19.10</block>
-  <block id="3377906a52734323c44c8f31b2d29e63" category="list-text"><block ref="3377906a52734323c44c8f31b2d29e63" category="inline-link-rx"></block></block>
-  <block id="f1d7fe87216a18ff3ffcfa98d6065689" category="inline-link">Astra Trident 19.07</block>
-  <block id="12e29d431cea2700aa9d89e0c89e67bc" category="list-text"><block ref="12e29d431cea2700aa9d89e0c89e67bc" category="inline-link-rx"></block></block>
-  <block id="fe4bdabecc64b786523a3d86bb1f9cfd" category="inline-link">Astra Trident 19.04</block>
-  <block id="e43783d5a51a10670edf444f0b58b6af" category="list-text"><block ref="e43783d5a51a10670edf444f0b58b6af" category="inline-link-rx"></block></block>
-  <block id="5e152ff33f3262612abc4b942db27ad1" category="inline-link">Astra Trident 19.01</block>
-  <block id="977636e26059252def0425dca74811ef" category="list-text"><block ref="977636e26059252def0425dca74811ef" category="inline-link-rx"></block></block>
   <block id="d59b86d1714966230da7a00672e40912" category="summary">ここに記載された推奨事項に従って、 Astra Trident のインストールを確実にセキュリティで保護してください。</block>
   <block id="2fae32629d4ef4fc6341f1751b405e45" category="doc">セキュリティ</block>
   <block id="44a736677691eaca5e5d3d6b5c770b22" category="section-title">Astra Trident を独自のネームスペースで実行</block>
@@ -2956,19 +2934,7 @@
   <block id="ddca1769e17014f8aa13c7b56059981f" category="sidebar">Astra Trident 21.10 のドキュメント</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">リリースノート</block>
   <block id="93168a8084b3e838d2932c4734bd234e" category="sidebar">以前のバージョン</block>
-  <block id="0629fb104936d0fb60cc736b6cb01caa" category="sidebar">Astra Trident の要件</block>
-  <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新機能</block>
-  <block id="1fe917b01f9a3f87fa2d7d3b7643fac1" category="sidebar">よく寄せられる質問</block>
-  <block id="312b0dc38b01ff32c1b2f5f81ee1ab2d" category="sidebar">Trident オペレータとともに導入</block>
-  <block id="6a693eb5cd23e4e5743663c7edc37aed" category="sidebar">Astra Trident for Docker を導入</block>
-  <block id="386307d41b3f4169a1e6e046a727cdd2" category="sidebar">Trident のオペレータにアップグレード</block>
   <block id="eb1f347fa6176ae2c9175df3bc414954" category="sidebar">Astra Trident を使用</block>
-  <block id="81a123ccab93cd947289b672b0e50348" category="sidebar">デモチュートリアル</block>
-  <block id="28348a71bed382b86fa6de4d3a307715" category="sidebar">Astra Trident のビデオ</block>
-  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">ブログコミュニティ</block>
-  <block id="6394eceb2639574114b02e6e817eb19a" category="sidebar">Astra ブログ</block>
-  <block id="874d8a5301794a9ca2aba132ac2460f3" category="sidebar">Kubernetes ハブ</block>
-  <block id="d59c00abbeaf33a9a094b3a69c563405" category="sidebar">netapp.io のコマンドです</block>
   <block id="0460583622f03a52d7693094d6fa2452" category="sidebar">概念</block>
   <block id="c949166d6970748c0094c800daa3324a" category="sidebar">Trident で Astra を管理</block>
   <block id="a20f982d79c3dd66d244ffe0f7d940ee" category="sidebar">ベストプラクティスと推奨事項</block>
@@ -2988,7 +2954,6 @@
   <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">特許</block>
   <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">ネットアップが所有する特許の最新リストは、次のサイトで入手できます。</block>
   <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">プライバシーポリシー</block>
-  <block id="086e6c16e3fe8e13c336612ef636aa02" category="sidebar">Astra Trident</block>
   <block id="5a333b18a215ecfd4457ba0e1732654b" category="section-title">Tridentは、負荷共有ミラーが設定されているSVMでボリュームをプロビジョニングできますか。</block>
   <block id="0e7629426b9d7596800cd5d72f558a7f" category="paragraph">負荷共有ミラーは、NFS経由でデータを提供するSVMのルートボリューム用に作成できます。ONTAP は、Tridentによって作成されたボリュームの負荷共有ミラーを自動的に更新します。ボリュームのマウントが遅延する可能性があります。Tridentを使用して複数のボリュームを作成する場合、ボリュームをプロビジョニングする方法は、負荷共有ミラーを更新するONTAP によって異なります。</block>
   <block id="de781ae8dbfd68aeef56f40c5dc767da" category="paragraph">Astra Tridentは、「vsadmin」のSVMユーザとして、または同じロールを持つ別の名前を持つユーザとして実行されることを想定しています。Amazon FSX for NetApp ONTAP には'fsxadmin'ユーザーがいますこれはONTAP のadminクラスタ・ユーザーの限定的な置き換えです「vsadmin」のSVMユーザがより多くのAstra Trident機能にアクセスできるため、「fsxadmin」ユーザをTridentとともに使用することはお勧めしません。</block>
@@ -3097,4 +3062,5 @@
   <block id="da66575a36601082676fb1d5422feba6" category="admonition">アップグレードするときは、この作業を行うことが重要です<block ref="f6e7f85d8aee15940665bf722f7afac2" prefix=" " category="inline-code"></block> インチ<block ref="f652904c3bfb48fb25a0a75f485f0ff6" prefix=" " category="inline-code"></block> Astra Tridentが使用。削除して再作成することができます<block ref="f652904c3bfb48fb25a0a75f485f0ff6" prefix=" " category="inline-code"></block> 実行前のボリュームの中断はなし。これは'SANボリュームに対してhttps://kubernetes.io/docs/tasks/configure-pod-container/security-context/[securityコンテキストを適用するための**要件**ですhttps://github.com/NetApp/trident/tree/master/trident-installer/sample-input[sample input^]ディレクトリには、https://github.com/NetApp/trident/blob/master/trident-installer/sample-input/storage-class-samples/storage-class-basic.yaml.templなどの例が含まれています<block ref="9abb8c7777ddb413820ee07d5d93aa4a" prefix="[" category="inline-code"></block>^）とリンク：https://github.com/NetApp/trident/blob/master/trident-installer/sample-input/storage-class-samples/storage-class-bronze-default.yaml<block ref="69ae2d9a6d831af7488e53fec053b77e" prefix="[" category="inline-code"></block>^]をクリックします。
 詳細については、を参照してください <block ref="139a59f2208174d2bf825b80dc580275" category="inline-link-macro-rx"></block>。</block>
   <block id="da4ba399089f873246a85825f8a3e1c3" category="list-text">これが完了したら、希望するバージョンの Trident バイナリ（この例では 20.07 ）を取得し、 Astra Trident のインストールに使用します。のカスタム YAML を生成できます <block ref="a251ebefafa5a5d36d857b7034f07489" category="inline-link-macro-rx"></block> 必要に応じて、</block>
+  <block id="9b19ca104aa9090dc59a99d64ff7f0ef" category="paragraph">Astra Trident 21.10を実行していない場合は、以前のリリースのドキュメントも利用できます。</block>
 </blocks>
